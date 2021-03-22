@@ -1,15 +1,18 @@
 # digital_pro
-Johnny Coder
+Ponnaganti Krishna Priyanka
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Roll:No                     Y19CB046
+Email Id                     krishnapriyankap999@gmail.com
+Mobile No                     8341326097
 -------------------     ----------------------------
 
 Education
 ---------
+2019-2023(expected)
+: **B.Tech, Computer Science and Business System**;Acharya Nagarjuna University(My District)
+2017-2019
 
 2010-2014 (expected)
 :   **PhD, Computer Science**; Awesome University (MyTown)
@@ -77,6 +80,7 @@ Programming Languages
     it.
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:Basic knowledge of "c", "cpp" , "python", "R".
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
